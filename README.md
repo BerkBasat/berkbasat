@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Technomarkt E-commerce Project
-- 🌱 I’m currently learning JS, React, .Net Core 6
+- 🌱 I’m currently learning JS, React, .Net Core 6, Blazor
 - 📫 How to reach me: basatberk@gmail.com
 
 
