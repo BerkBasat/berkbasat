@@ -4,6 +4,9 @@
 <p float="left">
   <img src="https://exceptionnotfound.net/content/images/2020/09/C_Sharp_logo.svg" width="auto" height="60" alt="C#">
   <img src="https://www.split.io/wp-content/uploads/2020/03/net-logo.png" width="auto" height="60" alt=".NET">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="auto" height="60" alt="html">
+  <img src="https://spng.subpng.com/20180425/hhq/kisspng-css3-cascading-style-sheets-logo-html-beautify-5ae0bb6f1564a7.1645321415246774870876.jpg" width="auto" height="60" alt="css">
+  <img src="https://flyclipart.com/thumb2/logo-javascript-png-transparent-logo-javascript-images-892775.png" width="auto" height="60" alt="js">
 </p>
 <!--
 **BerkBasat/berkbasat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
