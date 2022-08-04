@@ -7,7 +7,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="auto" height="50" alt="html">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" width="auto" height="50" alt="css">
   <img src="https://www.vhv.rs/dpng/d/313-3133777_javascript-transparent-background-svg-hd-png-download.png" width="auto" height="50" alt="js">
-  <img src="https://e7.pngegg.com/pngimages/857/885/png-clipart-python-javascript-logo-soloist-blue-angle-thumbnail.png" width="auto" height="50" alt="python">
+  <img src="https://w7.pngwing.com/pngs/234/329/png-transparent-python-logo-thumbnail.png" width="auto" height="50" alt="python">
 </p>
 <!--
 **BerkBasat/berkbasat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
