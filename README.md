@@ -1,5 +1,7 @@
 ### Hi Developers, I'm Berk Basat 👋
 
+#### Tools and Languages
+![C#](https://static.gunnarpeipman.com/wp-content/uploads/2009/10/csharp-featured.png)
 <!--
 **BerkBasat/berkbasat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
