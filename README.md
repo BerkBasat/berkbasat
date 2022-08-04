@@ -6,7 +6,7 @@
 - 📫 How to reach me: basatberk@gmail.com
 
 
-#### Languages and Tools
+### Languages and Tools:
 <p float="left">
   <img src="https://exceptionnotfound.net/content/images/2020/09/C_Sharp_logo.svg" width="auto" height="50" alt="C#">
   <img src="https://www.split.io/wp-content/uploads/2020/03/net-logo.png" width="auto" height="50" alt=".NET">
