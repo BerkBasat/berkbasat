@@ -3,7 +3,7 @@
 #### Tools and Languages
 <p float="left">
   <img src="https://exceptionnotfound.net/content/images/2020/09/C_Sharp_logo.svg" width="auto" height="60" alt="C#">
-  <img src="https://www.split.io/wp-content/uploads/2020/03/net-logo.png" style="background-color=white" width="auto" height="60" alt=".NET">
+  <img src="https://www.split.io/wp-content/uploads/2020/03/net-logo.png" background="white" width="auto" height="60" alt=".NET">
 </p>
 <!--
 **BerkBasat/berkbasat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
