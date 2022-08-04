@@ -1,7 +1,8 @@
 ### Hi Developers, I'm Berk Basat 👋
 
 #### Tools and Languages
-<img src="https://exceptionnotfound.net/content/images/2020/09/C_Sharp_logo.svg" width="auto" height="100" alt="C#">
+<img src="https://exceptionnotfound.net/content/images/2020/09/C_Sharp_logo.svg" width="auto" height="85" alt="C#">
+<img src="https://exceptionnotfound.net/content/images/2020/09/C_Sharp_logo.svg" width="auto" height="85" alt="C#">
 <!--
 **BerkBasat/berkbasat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
