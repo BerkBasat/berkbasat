@@ -5,7 +5,7 @@
   <img src="https://exceptionnotfound.net/content/images/2020/09/C_Sharp_logo.svg" width="auto" height="60" alt="C#">
   <img src="https://www.split.io/wp-content/uploads/2020/03/net-logo.png" width="auto" height="60" alt=".NET">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="auto" height="60" alt="html">
-  <img src="https://spng.subpng.com/20180425/hhq/kisspng-css3-cascading-style-sheets-logo-html-beautify-5ae0bb6f1564a7.1645321415246774870876.jpg" width="auto" height="60" alt="css">
+  <img src="https://mpng.subpng.com/20180816/rcw/kisspng-cascading-style-sheets-logo-clip-art-css3-html-5b7617f67bd3d6.3499284915344660385072.jpg" width="auto" height="60" alt="css">
   <img src="https://w1.pngwing.com/pngs/951/574/png-transparent-react-logo-javascript-redux-vuejs-angular-angularjs-expressjs-front-and-back-ends.png" width="auto" height="60" alt="js">
 </p>
 <!--
