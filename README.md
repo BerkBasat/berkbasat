@@ -6,8 +6,8 @@
   <img src="https://www.split.io/wp-content/uploads/2020/03/net-logo.png" width="auto" height="50" alt=".NET">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="auto" height="50" alt="html">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" width="auto" height="50" alt="css">
-  <img src="C:\Users\Huawei\Desktop\js.png" width="auto" height="50" alt="js">
-  <img src="C:\Users\Huawei\Desktop\bootstrap.png" width="auto" height="50" alt="python">
+  <img src="https://user-images.githubusercontent.com/82957009/182874857-4dda8588-7370-4648-89f2-9e547ce07303.png" width="auto" height="50" alt="js">
+  <img src="https://user-images.githubusercontent.com/82957009/182874943-b37a0eea-2a69-40b9-b8a4-5d9a079ae5a0.png" width="auto" height="50" alt="bootstrap">
 </p>
 <!--
 **BerkBasat/berkbasat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
