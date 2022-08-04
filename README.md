@@ -1,5 +1,4 @@
 ### Hi Developers, I'm Berk Basat 👋
-#### Junior Developer
 
 <!--
 **BerkBasat/berkbasat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
