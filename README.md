@@ -2,11 +2,11 @@
 
 #### Tools and Languages
 <p float="left">
-  <img src="https://exceptionnotfound.net/content/images/2020/09/C_Sharp_logo.svg" width="auto" height="60" alt="C#">
-  <img src="https://www.split.io/wp-content/uploads/2020/03/net-logo.png" width="auto" height="60" alt=".NET">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="auto" height="60" alt="html">
-  <img src="https://w7.pngwing.com/pngs/653/527/png-transparent-white-and-blue-shield-shape-logo-css3-cascading-style-sheets-computer-icons-html-emblem-miscellaneous-blue-angle.png" width="auto" height="60" alt="css">
-  <img src="https://w1.pngwing.com/pngs/951/574/png-transparent-react-logo-javascript-redux-vuejs-angular-angularjs-expressjs-front-and-back-ends.png" width="auto" height="60" alt="js">
+  <img src="https://exceptionnotfound.net/content/images/2020/09/C_Sharp_logo.svg" width="auto" height="50" alt="C#">
+  <img src="https://www.split.io/wp-content/uploads/2020/03/net-logo.png" width="auto" height="50" alt=".NET">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="auto" height="50" alt="html">
+  <img src="https://w7.pngwing.com/pngs/4/808/png-transparent-css3-css3-logo-logo-language-programming-language-css-3d-icon.png" width="auto" height="50" alt="css">
+  <img src="https://w1.pngwing.com/pngs/951/574/png-transparent-react-logo-javascript-redux-vuejs-angular-angularjs-expressjs-front-and-back-ends.png" width="auto" height="50" alt="js">
 </p>
 <!--
 **BerkBasat/berkbasat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
