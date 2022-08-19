@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Technomarkt E-commerce Project
 - 🌱 I’m currently learning JS, React, .Net Core 6
-- 📫 How to reach me: basatberk@gmail.com
+- 📫 How to reach me: basatberk@gmail.com or https://www.linkedin.com/in/berk-basat-097385249/
 
 ### Languages and Tools:
 <p float="left">
