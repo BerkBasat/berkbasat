@@ -19,4 +19,4 @@
   <img src="https://user-images.githubusercontent.com/82957009/183029711-e6f16389-4fd0-4240-b68f-4b430dad0fbb.png" width="auto" height="50" alt="jquery">
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BerkBasat&show_icons=true&theme=dark)
