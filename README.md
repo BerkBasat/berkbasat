@@ -19,6 +19,5 @@
   <img src="https://user-images.githubusercontent.com/82957009/183029711-e6f16389-4fd0-4240-b68f-4b430dad0fbb.png" width="auto" height="50" alt="jquery">
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BerkBasat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BerkBasat&show_icons=true&theme=dark)
