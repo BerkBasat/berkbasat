@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning JS, Angular, Node.js
 - 📫 How to reach me: basatberk@gmail.com or https://www.linkedin.com/in/berk-basat-097385249/
 
-
+![](https://komarev.com/ghpvc/?username=BerkBasat&color=blue)
 
 ### Languages and Tools:
 <p float="left">
