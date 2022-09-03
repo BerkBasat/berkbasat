@@ -1,7 +1,7 @@
 ## Hi Developers, I'm Berk Basat 👋
 
 
-- 🔭 I’m currently working on Technomarkt E-commerce Project
+- 🔭 I’m currently working on Investex Website Project
 - 🌱 I’m currently learning JS, Angular, Node.js
 - 📫 How to reach me: basatberk@gmail.com or https://www.linkedin.com/in/berk-basat-097385249/
 
