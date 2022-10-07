@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Investex Stock Market Website
-- 🌱 I’m currently learning React.js, Node.js, Express
+- 🌱 I’m currently learning Microservices, Docker, Kubernetes, RabbitMQ
 - 📫 How to reach me: basatberk@gmail.com or https://www.linkedin.com/in/berk-basat-097385249/
 
 ![](https://komarev.com/ghpvc/?username=BerkBasat&color=blue)
