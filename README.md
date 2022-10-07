@@ -21,6 +21,8 @@
   <img src="https://user-images.githubusercontent.com/82957009/182875985-f4941ee0-9e0e-42b8-a5bf-15f154233d56.png" width="auto" height="50" alt="sql">
   <img src="https://user-images.githubusercontent.com/82957009/186125708-610a98e1-ee9a-4e34-bed2-c82eb558f842.png" width="auto" height="50" alt="postgre">
   <img src="https://g.foolcdn.com/art/companylogos/square/mdb.png" width="auto" height="50" alt="mongodb">
+  <img src="https://user-images.githubusercontent.com/82957009/194516178-e6883ef9-aca1-49ed-9081-cbd7465318c5.png" width="auto" height="50" alt="docker">
+  <img src="https://user-images.githubusercontent.com/82957009/194516280-77f831a7-672d-4888-88b7-5ae928bac902.png" width="auto" height="50" alt="k8s">
   
 
 </p>
