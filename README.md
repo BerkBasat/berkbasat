@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on --
-- 🌱 I’m currently learning Jquery, React.js, MySql
+- 🌱 I’m currently learning API, Jquery, React.js
 - 📫 How to reach me: basatberk@gmail.com or https://www.linkedin.com/in/berk-basat-097385249/
 
 ![](https://komarev.com/ghpvc/?username=BerkBasat&color=blue)
