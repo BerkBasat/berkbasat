@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on --
 - 🌱 I’m currently learning API, AWS, Microservices
-- 📫 How to reach me: basatberk@gmail.com or https://www.linkedin.com/in/berk-basat-097385249/
+- 📫 How to reach me: basatberk@gmail.com or www.linkedin.com/in/berk-basat
 
 ![](https://komarev.com/ghpvc/?username=BerkBasat&color=blue)
 
