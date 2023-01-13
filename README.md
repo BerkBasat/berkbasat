@@ -24,7 +24,7 @@
   <img src="https://user-images.githubusercontent.com/82957009/194516178-e6883ef9-aca1-49ed-9081-cbd7465318c5.png" width="auto" height="45" alt="docker">
   <img src="https://user-images.githubusercontent.com/82957009/194516280-77f831a7-672d-4888-88b7-5ae928bac902.png" width="auto" height="45" alt="k8s">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" height="45" alt="blazor">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/OpenAI_Logo_%282%29.svg/2560px-OpenAI_Logo_%282%29.svg.png" height="45" alt="openai">
+  <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/OpenAI_Logo_%282%29.svg/2560px-OpenAI_Logo_%282%29.svg.png](https://banner2.cleanpng.com/20180823/xfb/kisspng-openai-artificial-intelligence-artificial-general-weights-amp-biases-5b7e5643bb27b8.5060308615350062757666.jpg)" height="45" alt="openai">
 
   
 </p>
