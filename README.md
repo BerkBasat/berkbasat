@@ -9,7 +9,7 @@
 
 ### Languages and Tools:
 <p float="left">
-  <img src="https://exceptionnotfound.net/content/images/2020/09/C_Sharp_logo.svg" width="auto" height="45" alt="C#">
+  <img src="https://exceptionnotfound.net/content/images/2020/09/C_Sharp_logo.svg" width="auto" height="45" style="padding-right:5px;" alt="C#">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" width="auto" height="45" alt=".NET Core">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="auto" height="45" alt="html">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" width="auto" height="45" alt="css">
