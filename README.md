@@ -25,7 +25,10 @@
   <img src="https://user-images.githubusercontent.com/82957009/194516280-77f831a7-672d-4888-88b7-5ae928bac902.png" width="auto" height="45" alt="k8s">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" height="45" alt="blazor">
   <img src="https://user-images.githubusercontent.com/82957009/212249995-11ed2020-4f6b-406b-a880-4d2071408757.png" height="45" alt="openai">
+  <img src="https://user-images.githubusercontent.com/82957009/215065963-c42b2047-8c2d-490e-9a38-845b1cd46002.png" height="45" alt="gitlab">
+  <img src="https://user-images.githubusercontent.com/82957009/215066084-d5e9188e-53ff-48d3-9121-db08640e58ea.png" height="45" alt="aws">
+  <img src="https://user-images.githubusercontent.com/82957009/215066166-865805c2-8de3-40d5-aea5-73f580932a65.png" height="45" alt="azure">
 
-  
+
 </p>
 
