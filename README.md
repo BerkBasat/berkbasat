@@ -1,7 +1,7 @@
 ## Hi Developers, I'm Berk Basat 👋
 
 
-- 🔭 I’m currently working on Blazor Store App
+- 🔭 I’m currently working on --
 - 🌱 I’m currently learning AWS, Azure, Microservices, Blazor
 - 📫 How to reach me: basatberk@gmail.com or www.linkedin.com/in/berk-basat
 
