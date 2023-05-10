@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on --
-- 🌱 I’m currently learning AWS, Microservices, XML, SOAP
+- 🌱 I’m currently learning React, OpenAI API, Microservices, RabbitMQ
 - 📫 How to reach me: basatberk@gmail.com or www.linkedin.com/in/berk-basat
 
 ![](https://komarev.com/ghpvc/?username=BerkBasat&color=blue)
