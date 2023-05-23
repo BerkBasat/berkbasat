@@ -27,7 +27,6 @@
   <img src="https://user-images.githubusercontent.com/82957009/212249995-11ed2020-4f6b-406b-a880-4d2071408757.png" height="45" alt="openai">
   <img src="https://user-images.githubusercontent.com/82957009/215065963-c42b2047-8c2d-490e-9a38-845b1cd46002.png" height="45" alt="gitlab">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png" height="45" alt="aws">
-  <img src="https://user-images.githubusercontent.com/82957009/215066166-865805c2-8de3-40d5-aea5-73f580932a65.png" height="45" alt="azure">
 
 </p>
 
