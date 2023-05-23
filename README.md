@@ -25,10 +25,10 @@
   <img src="https://user-images.githubusercontent.com/82957009/194516280-77f831a7-672d-4888-88b7-5ae928bac902.png" width="auto" height="45" alt="k8s">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" height="45" alt="blazor">
   <img src="https://github.com/BerkBasat/berkbasat/assets/82957009/381cfe06-6f66-4e7b-abc2-5129e2c01848" height="45" alt="react">
+  <img src="https://github.com/BerkBasat/berkbasat/assets/82957009/3a98cd1e-09b0-4a9b-9089-933b07cc6753" height="45" alt="typescript">
   <img src="https://user-images.githubusercontent.com/82957009/212249995-11ed2020-4f6b-406b-a880-4d2071408757.png" height="45" alt="openai">
   <img src="https://user-images.githubusercontent.com/82957009/215065963-c42b2047-8c2d-490e-9a38-845b1cd46002.png" height="45" alt="gitlab">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png" height="45" alt="aws">
-  ![1174949_js_react js_logo_react_react native_icon](https://github.com/BerkBasat/berkbasat/assets/82957009/381cfe06-6f66-4e7b-abc2-5129e2c01848)
 
 
 </p>
