@@ -1,8 +1,8 @@
 ## Hi Developers, I'm Berk Basat 👋
 
 
-- 🔭 I’m currently working on React JS Project
-- 🌱 I’m currently learning React, OpenAI API, Microservices, RabbitMQ
+- 🔭 I’m currently working on --
+- 🌱 I’m currently learning React Native, Typescript, OpenAI API, Microservices
 - 📫 How to reach me: basatberk@gmail.com or www.linkedin.com/in/berk-basat
 
 ![](https://komarev.com/ghpvc/?username=BerkBasat&color=blue)
