@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on --
-- 🌱 I’m currently learning React Native, Typescript, OpenAI API, Microservices
+- 🌱 I’m currently learning React Native, Typescript, Microservices
 - 📫 How to reach me: basatberk@gmail.com or www.linkedin.com/in/berk-basat
 
 ![](https://komarev.com/ghpvc/?username=BerkBasat&color=blue)
