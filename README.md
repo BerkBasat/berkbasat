@@ -1,8 +1,8 @@
 ## Hi Developers, I'm Berk Basat 👋
 
 
-- 🔭 I’m currently working on --
-- 🌱 I’m currently learning React Native, Microservices
+- 🔭 I’m currently working on .NET8-Project
+- 🌱 I’m currently learning Microservices, Azure
 - 📫 How to reach me: basatberk@gmail.com or www.linkedin.com/in/berk-basat
 
 ![](https://komarev.com/ghpvc/?username=BerkBasat&color=blue)
