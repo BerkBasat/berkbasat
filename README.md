@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on .NET8 Project
-- 🌱 I’m currently learning Microservices, Azure
+- 🌱 I’m currently learning Microservices, Azure, RabbitMQ
 - 📫 How to reach me: basatberk@gmail.com or www.linkedin.com/in/berk-basat
 
 ![](https://komarev.com/ghpvc/?username=BerkBasat&color=blue)
